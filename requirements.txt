@@ -3,3 +3,4 @@ pygame==2.6.1
 gpiozero==2.0.1
 lgpio==0.2.2.0
 rpi-lgpio==0.6
+Pillow==11.1.0
